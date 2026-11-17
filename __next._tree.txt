@@ -1,0 +1,12 @@
+:HL["/template-edit-barang/_next/static/chunks/42752k2hzc1mu.css","style"]
+:HL["/template-edit-barang/_next/static/media/173dec9111de7ee9-s.p.30vf8qrejq72b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/template-edit-barang/_next/static/media/338542cb79af2158-s.p.2p2dmhwb9nju6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/template-edit-barang/_next/static/media/56583778ea59412b-s.p.0yfpwd9w9tlms.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/template-edit-barang/_next/static/media/77a4b527d08cc916-s.p.2a3w-b9irc_27.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/template-edit-barang/_next/static/media/927e69ff15679a94-s.p.2974edstvwsnt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/template-edit-barang/_next/static/media/9a614735508e78b1-s.p.231-3bqi2sys0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/template-edit-barang/_next/static/media/c3ada891737f2747-s.p.2ofae7-v0u79z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/template-edit-barang/_next/static/media/d7cc781f889325b8-s.p.1d4i5iktl1egg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/template-edit-barang/_next/static/media/e54e3aebf9c34921-s.p.0uy-yvd3zs1-u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"_IAqJMS-1FZgmhGQPUR0p","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

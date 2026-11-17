@@ -1,0 +1,4 @@
+:HL["/template-edit-barang/_next/static/chunks/42752k2hzc1mu.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"_IAqJMS-1FZgmhGQPUR0p","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

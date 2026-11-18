@@ -9,4 +9,4 @@
 :HL["/template-edit-barang/_next/static/media/d7cc781f889325b8-s.p.1d4i5iktl1egg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/template-edit-barang/_next/static/media/e54e3aebf9c34921-s.p.0uy-yvd3zs1-u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"_IAqJMS-1FZgmhGQPUR0p","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"BCm5wwD6zo8_LfDSyBfkd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
